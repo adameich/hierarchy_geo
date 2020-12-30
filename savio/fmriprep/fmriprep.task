@@ -1,0 +1,1 @@
+bash /global/scratch/eichenbaum/HRL_Geo/scripts/fmriprep/run_fmriprep.sh --id=$HT_TASK_ID

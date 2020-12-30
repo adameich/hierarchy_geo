@@ -1,0 +1,1 @@
+bash /global/scratch/eichenbaum/HRL_Geo/scripts/mriqc/run_mriqc.sh --id=$HT_TASK_ID
